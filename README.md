@@ -1,4 +1,4 @@
-# FaceNet_app　(全然できてません…）
+# FaceNet_app　(途中…！）
 - FaceNetとOpencvを組み合わせて顔の特徴量判断と画像合成をおこなうものを作る。
 
 ## 工程
